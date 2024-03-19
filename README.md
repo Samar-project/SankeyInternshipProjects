@@ -1,6 +1,6 @@
 [**Project Month-2 github repo link**](https://github.com/Samar-project/easysetDemo) (here **Source code** is pushed)
 
-[**Live working link for project**](https://samar-project.github.io/easysetDemo/)   (here all link for page are listed on first page from where all the page can be surf.)
+[**Live working link for project**]   (here all link for page are listed on first page from where all the page can be surf.)
 
 
 # SankeyInternshipProjects
